@@ -1,0 +1,21 @@
+.table{
+    background-color: #06BBCC;
+    color: darkslategray;
+}
+
+.container1 {
+    width: 100%;
+
+ }
+    @media (min-width: 576px) {
+      .container1 {
+        max-width: 540px; } }
+    @media (min-width: 768px) {
+      .container1 {
+        max-width: 720px; } }
+    @media (min-width: 992px) {
+      .container1 {
+        max-width: 960px; } }
+    @media (min-width: 1200px) {
+      .container1 {
+        max-width: 1140px; } }

@@ -1,0 +1,9 @@
+.form-select option:hover {
+    background-color: #fff; 
+    color: #000; 
+}
+
+.table-bordered tbody tr:hover {
+    background-color: #c2f0f4;
+    cursor: pointer;
+}
